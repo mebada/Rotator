@@ -1,0 +1,36 @@
+<rotator>
+<locations>
+   
+   <location  src="/pportal/dist/">
+    <filters type="dir" pattern="*-r*">
+       <expireAgeInMin>-1</expireAgeInMin>
+       <maxCount>12</maxCount>
+       <maxSizeInK>-1</maxSizeInK>
+   </filters>
+   <actions>
+      <delete/>
+   </actions>
+  </location>
+
+   <location  src="/tmp/">
+    <filters type="file" pattern="buildDeployLocal*">
+       <expireAgeInMin>-1</expireAgeInMin>
+       <maxCount>12</maxCount>
+       <maxSizeInK>-1</maxSizeInK>
+   </filters>
+   <actions>
+      <delete/>
+   </actions>
+  </location>
+
+</locations>
+
+
+<logSettings>
+  <location>rotate.out</location>
+  <maxSizeInK>20</maxSizeInK>
+  <maxCount>5</maxCount>
+  <level>10</level>
+</logSettings>
+
+</rotator>

@@ -1,0 +1,202 @@
+2017-11-14 07:59:50,747  - DEBUG - src size = 730500k 
+2017-11-14 07:59:50,747  - DEBUG - needed size = 730501k
+2017-11-14 07:59:50,747  - DEBUG - set([])
+2017-11-14 07:59:50,747  - DEBUG - Actions :: delete
+2017-11-14 07:59:50,747  - DEBUG - *****location*****
+2017-11-14 07:59:50,753  - DEBUG - src size = 730500k 
+2017-11-14 07:59:50,753  - DEBUG - needed size = 730501k
+2017-11-14 07:59:50,753  - DEBUG - set([])
+2017-11-16 10:51:10,243  - INFO - logger has started successfully. 
+2017-11-16 10:51:10,248  - DEBUG - *****location*****
+2017-11-16 10:51:10,248  - DEBUG - src=/pportal/dist/
+2017-11-16 10:51:10,248  - DEBUG - pattern= *-r*
+2017-11-16 10:51:10,248  - DEBUG - type= dir
+2017-11-16 10:51:10,249  - DEBUG - expireAgeInMin= -1 M
+2017-11-16 10:51:10,249  - DEBUG - maxCount= 12 
+2017-11-16 10:51:10,249  - DEBUG - maxSizeInK= -1k
+2017-11-16 10:51:10,249  - DEBUG - trunk-r75318-sso-dev-20171115-090025
+2017-11-16 10:51:10,249  - DEBUG - trunk-r75321-sso-dev
+2017-11-16 10:51:10,249  - DEBUG - trunk-r75322-sso-dev
+2017-11-16 10:51:10,249  - DEBUG - trunk-r75324-sso-dev
+2017-11-16 10:51:10,249  - DEBUG - trunk-r75324-sso-dev-20171115-102646
+2017-11-16 10:51:10,250  - DEBUG - trunk-r75324-sso-dev-20171115-103143
+2017-11-16 10:51:10,250  - DEBUG - trunk-r75327-xprs-staging-06
+2017-11-16 10:51:10,250  - DEBUG - trunk-r75328-sso-dev
+2017-11-16 10:51:10,250  - DEBUG - trunk-r75329-sso-dev
+2017-11-16 10:51:10,250  - DEBUG - trunk-r75330-sso-dev
+2017-11-16 10:51:10,250  - DEBUG - trunk-r75332-sso-dev
+2017-11-16 10:51:10,250  - DEBUG - trunk-r75333-sso-dev
+2017-11-16 10:51:10,250  - DEBUG - trunk-r75339-sso-dev
+2017-11-16 10:51:10,250  - DEBUG - trunk-r75347-sso-dev
+2017-11-16 10:51:10,250  - DEBUG - trunk-r75353-sso-dev
+2017-11-16 10:51:10,250  - DEBUG - trunk-r75356-sso-dev
+2017-11-16 10:51:10,250  - DEBUG - trunk-r75357-sso-dev
+2017-11-16 10:51:10,250  - DEBUG - trunk-r75359-sso-dev
+2017-11-16 10:51:10,250  - DEBUG - trunk-r75360-sso-dev
+2017-11-16 10:51:10,250  - DEBUG - trunk-r75362-sso-dev
+2017-11-16 10:51:10,251  - DEBUG - trunk-r75364-sso-dev
+2017-11-16 10:51:10,251  - DEBUG - trunk-r75364-sso-dev-20171116-023326
+2017-11-16 10:51:10,251  - DEBUG - trunk-r75364-sso-dev-20171116-023853
+2017-11-16 10:51:10,251  - DEBUG - trunk-r75370-sso-dev
+2017-11-16 10:51:10,251  - DEBUG - trunk-r75371-sso-dev
+2017-11-16 10:51:28,498  - DEBUG - src size = 11138351k 
+2017-11-16 10:51:28,498  - DEBUG - needed size = 11138352k
+2017-11-16 10:51:28,499  - DEBUG - set([u'/pportal/dist/trunk-r75364-sso-dev-20171116-023853', u'/pportal/dist/trunk-r75322-sso-dev', u'/pportal/dist/trunk-r75324-sso-dev-20171115-103143', u'/pportal/dist/trunk-r75327-xprs-staging-06', u'/pportal/dist/trunk-r75339-sso-dev', u'/pportal/dist/trunk-r75332-sso-dev', u'/pportal/dist/trunk-r75364-sso-dev-20171116-023326', u'/pportal/dist/trunk-r75359-sso-dev', u'/pportal/dist/trunk-r75356-sso-dev', u'/pportal/dist/trunk-r75333-sso-dev', u'/pportal/dist/trunk-r75321-sso-dev', u'/pportal/dist/trunk-r75357-sso-dev', u'/pportal/dist/trunk-r75329-sso-dev', u'/pportal/dist/trunk-r75371-sso-dev', u'/pportal/dist/trunk-r75370-sso-dev', u'/pportal/dist/trunk-r75362-sso-dev', u'/pportal/dist/trunk-r75328-sso-dev', u'/pportal/dist/trunk-r75318-sso-dev-20171115-090025', u'/pportal/dist/trunk-r75353-sso-dev', u'/pportal/dist/trunk-r75347-sso-dev', u'/pportal/dist/trunk-r75330-sso-dev', u'/pportal/dist/trunk-r75324-sso-dev-20171115-102646', u'/pportal/dist/trunk-r75324-sso-dev', u'/pportal/dist/trunk-r75360-sso-dev', u'/pportal/dist/trunk-r75364-sso-dev'])
+2017-11-16 10:51:28,499  - DEBUG - Actions :: delete
+2017-11-16 10:51:28,499  - DEBUG - About to remove dir = /pportal/dist/trunk-r75364-sso-dev-20171116-023853
+2017-11-16 10:51:32,271  - DEBUG - About to remove dir = /pportal/dist/trunk-r75322-sso-dev
+2017-11-16 10:51:32,288  - DEBUG - About to remove dir = /pportal/dist/trunk-r75324-sso-dev-20171115-103143
+2017-11-16 10:51:36,436  - DEBUG - About to remove dir = /pportal/dist/trunk-r75327-xprs-staging-06
+2017-11-16 10:51:40,361  - DEBUG - About to remove dir = /pportal/dist/trunk-r75339-sso-dev
+2017-11-16 10:51:44,616  - DEBUG - About to remove dir = /pportal/dist/trunk-r75332-sso-dev
+2017-11-16 10:51:45,295  - DEBUG - About to remove dir = /pportal/dist/trunk-r75364-sso-dev-20171116-023326
+2017-11-16 10:51:45,302  - DEBUG - About to remove dir = /pportal/dist/trunk-r75359-sso-dev
+2017-11-16 10:51:45,710  - DEBUG - About to remove dir = /pportal/dist/trunk-r75356-sso-dev
+2017-11-16 10:51:49,871  - DEBUG - About to remove dir = /pportal/dist/trunk-r75333-sso-dev
+2017-11-16 10:51:53,836  - DEBUG - About to remove dir = /pportal/dist/trunk-r75321-sso-dev
+2017-11-16 10:51:54,395  - DEBUG - About to remove dir = /pportal/dist/trunk-r75357-sso-dev
+2017-11-16 10:51:58,300  - DEBUG - About to remove dir = /pportal/dist/trunk-r75329-sso-dev
+2017-11-16 10:52:03,500  - DEBUG - About to remove dir = /pportal/dist/trunk-r75371-sso-dev
+2017-11-16 10:52:07,947  - DEBUG - About to remove dir = /pportal/dist/trunk-r75370-sso-dev
+2017-11-16 10:52:07,998  - DEBUG - About to remove dir = /pportal/dist/trunk-r75362-sso-dev
+2017-11-16 10:52:12,851  - DEBUG - About to remove dir = /pportal/dist/trunk-r75328-sso-dev
+2017-11-16 10:52:17,291  - DEBUG - About to remove dir = /pportal/dist/trunk-r75318-sso-dev-20171115-090025
+2017-11-16 10:52:17,721  - DEBUG - About to remove dir = /pportal/dist/trunk-r75353-sso-dev
+2017-11-16 10:52:18,152  - DEBUG - About to remove dir = /pportal/dist/trunk-r75347-sso-dev
+2017-11-16 10:52:23,439  - DEBUG - About to remove dir = /pportal/dist/trunk-r75330-sso-dev
+2017-11-16 10:52:27,368  - DEBUG - About to remove dir = /pportal/dist/trunk-r75324-sso-dev-20171115-102646
+2017-11-16 10:52:27,382  - DEBUG - About to remove dir = /pportal/dist/trunk-r75324-sso-dev
+2017-11-16 10:52:27,402  - DEBUG - About to remove dir = /pportal/dist/trunk-r75360-sso-dev
+2017-11-16 10:52:30,909  - DEBUG - About to remove dir = /pportal/dist/trunk-r75364-sso-dev
+2017-11-16 10:52:31,060  - DEBUG - *****location*****
+2017-11-16 10:52:31,060  - DEBUG - src=/tmp/
+2017-11-16 10:52:31,060  - DEBUG - pattern= buildDeployLocal*
+2017-11-16 10:52:31,060  - DEBUG - type= file
+2017-11-16 10:52:31,060  - DEBUG - expireAgeInMin= -1 M
+2017-11-16 10:52:31,061  - DEBUG - maxCount= 12 
+2017-11-16 10:52:31,061  - DEBUG - maxSizeInK= -1k
+2017-11-16 10:52:31,672  - DEBUG - buildDeployLocal20171115T123146.log
+2017-11-16 10:52:31,672  - DEBUG - buildDeployLocal20171115T143233.log
+2017-11-16 10:52:31,672  - DEBUG - buildDeployLocal20171115T160242.log
+2017-11-16 10:52:31,672  - DEBUG - buildDeployLocal20171115T163315.log
+2017-11-16 10:52:31,672  - DEBUG - buildDeployLocal20171115T183402.log
+2017-11-16 10:52:31,672  - DEBUG - buildDeployLocal20171115T203446.log
+2017-11-16 10:52:31,672  - DEBUG - buildDeployLocal20171115T205228.log
+2017-11-16 10:52:31,672  - DEBUG - buildDeployLocal20171115T220929.log
+2017-11-16 10:52:31,672  - DEBUG - buildDeployLocal20171115T223546.log
+2017-11-16 10:52:31,672  - DEBUG - buildDeployLocal20171115T225832.log
+2017-11-16 10:52:31,672  - DEBUG - buildDeployLocal20171116T003608.log
+2017-11-16 10:52:31,672  - DEBUG - buildDeployLocal20171116T013431.log
+2017-11-16 10:52:31,672  - DEBUG - buildDeployLocal20171116T021927.log
+2017-11-16 10:52:31,672  - DEBUG - buildDeployLocal20171116T023305.log
+2017-11-16 10:52:31,673  - DEBUG - buildDeployLocal20171116T023810.log
+2017-11-16 10:52:31,673  - DEBUG - buildDeployLocal20171116T035239.log
+2017-11-16 10:52:31,673  - DEBUG - buildDeployLocal20171116T043757.log
+2017-11-16 10:52:31,673  - DEBUG - buildDeployLocal20171116T052116.log
+2017-11-16 10:52:31,673  - DEBUG - buildDeployLocal20171116T062042.log
+2017-11-16 10:52:31,673  - DEBUG - buildDeployLocal20171116T063832.log
+2017-11-16 10:52:31,673  - DEBUG - buildDeployLocal20171116T074850.log
+2017-11-16 10:52:31,673  - DEBUG - buildDeployLocal20171116T082106.log
+2017-11-16 10:52:31,673  - DEBUG - buildDeployLocal20171116T083648.log
+2017-11-16 10:52:31,673  - DEBUG - buildDeployLocal20171116T084006.log
+2017-11-16 10:52:31,673  - DEBUG - buildDeployLocal20171116T085411.log
+2017-11-16 10:52:51,072  - INFO - logger has started successfully. 
+2017-11-16 10:52:51,072  - DEBUG - *****location*****
+2017-11-16 10:52:51,072  - DEBUG - src=/pportal/dist/
+2017-11-16 10:52:51,072  - DEBUG - pattern= *-r*
+2017-11-16 10:52:51,072  - DEBUG - type= dir
+2017-11-16 10:52:51,072  - DEBUG - expireAgeInMin= -1 M
+2017-11-16 10:52:51,072  - DEBUG - maxCount= 12 
+2017-11-16 10:52:51,072  - DEBUG - maxSizeInK= -1k
+2017-11-16 10:52:51,073  - DEBUG - trunk-r75375-sso-dev
+2017-11-16 10:52:51,073  - DEBUG - trunk-r75380-sso-dev
+2017-11-16 10:52:51,073  - DEBUG - trunk-r75380-sso-dev-20171116-063904
+2017-11-16 10:52:51,073  - DEBUG - trunk-r75384-sso-dev
+2017-11-16 10:52:51,073  - DEBUG - trunk-r75388-sso-dev
+2017-11-16 10:52:51,073  - DEBUG - trunk-r75388-xprs-staging
+2017-11-16 10:52:51,073  - DEBUG - trunk-r75388-sso-dev-20171116-084038
+2017-11-16 10:52:51,073  - DEBUG - trunk-r75390-sso-dev
+2017-11-16 10:52:51,073  - DEBUG - trunk-r75322-sso-dev
+2017-11-16 10:52:51,073  - DEBUG - trunk-r75332-sso-dev
+2017-11-16 10:52:51,073  - DEBUG - trunk-r75359-sso-dev
+2017-11-16 10:52:51,122  - DEBUG - src size = 1584460k 
+2017-11-16 10:52:51,122  - DEBUG - needed size = 1584461k
+2017-11-16 10:52:51,122  - DEBUG - set([u'/pportal/dist/trunk-r75332-sso-dev', u'/pportal/dist/trunk-r75375-sso-dev', u'/pportal/dist/trunk-r75359-sso-dev', u'/pportal/dist/trunk-r75380-sso-dev', u'/pportal/dist/trunk-r75388-xprs-staging', u'/pportal/dist/trunk-r75388-sso-dev', u'/pportal/dist/trunk-r75380-sso-dev-20171116-063904', u'/pportal/dist/trunk-r75390-sso-dev', u'/pportal/dist/trunk-r75322-sso-dev', u'/pportal/dist/trunk-r75388-sso-dev-20171116-084038', u'/pportal/dist/trunk-r75384-sso-dev'])
+2017-11-16 10:52:51,122  - DEBUG - Actions :: delete
+2017-11-16 10:52:51,122  - DEBUG - About to remove dir = /pportal/dist/trunk-r75332-sso-dev
+2017-11-16 10:52:51,122  - DEBUG - About to remove dir = /pportal/dist/trunk-r75375-sso-dev
+2017-11-16 10:52:51,576  - DEBUG - About to remove dir = /pportal/dist/trunk-r75359-sso-dev
+2017-11-16 10:52:51,577  - DEBUG - About to remove dir = /pportal/dist/trunk-r75380-sso-dev
+2017-11-16 10:52:51,643  - DEBUG - About to remove dir = /pportal/dist/trunk-r75388-xprs-staging
+2017-11-16 10:52:51,708  - DEBUG - About to remove dir = /pportal/dist/trunk-r75388-sso-dev
+2017-11-16 10:52:51,761  - DEBUG - About to remove dir = /pportal/dist/trunk-r75380-sso-dev-20171116-063904
+2017-11-16 10:52:55,907  - DEBUG - About to remove dir = /pportal/dist/trunk-r75390-sso-dev
+2017-11-16 10:52:55,955  - DEBUG - About to remove dir = /pportal/dist/trunk-r75322-sso-dev
+2017-11-16 10:52:55,955  - DEBUG - About to remove dir = /pportal/dist/trunk-r75388-sso-dev-20171116-084038
+2017-11-16 10:52:56,051  - DEBUG - About to remove dir = /pportal/dist/trunk-r75384-sso-dev
+2017-11-16 10:52:56,475  - DEBUG - *****location*****
+2017-11-16 10:52:56,476  - DEBUG - src=/tmp/
+2017-11-16 10:52:56,476  - DEBUG - pattern= buildDeployLocal*
+2017-11-16 10:52:56,476  - DEBUG - type= file
+2017-11-16 10:52:56,476  - DEBUG - expireAgeInMin= -1 M
+2017-11-16 10:52:56,476  - DEBUG - maxCount= 12 
+2017-11-16 10:52:56,476  - DEBUG - maxSizeInK= -1k
+2017-11-16 10:52:56,480  - DEBUG - buildDeployLocal20171115T123146.log
+2017-11-16 10:52:56,480  - DEBUG - buildDeployLocal20171115T143233.log
+2017-11-16 10:52:56,480  - DEBUG - buildDeployLocal20171115T160242.log
+2017-11-16 10:52:56,480  - DEBUG - buildDeployLocal20171115T163315.log
+2017-11-16 10:52:56,480  - DEBUG - buildDeployLocal20171115T183402.log
+2017-11-16 10:52:56,480  - DEBUG - buildDeployLocal20171115T203446.log
+2017-11-16 10:52:56,480  - DEBUG - buildDeployLocal20171115T205228.log
+2017-11-16 10:52:56,481  - DEBUG - buildDeployLocal20171115T220929.log
+2017-11-16 10:52:56,481  - DEBUG - buildDeployLocal20171115T223546.log
+2017-11-16 10:52:56,481  - DEBUG - buildDeployLocal20171115T225832.log
+2017-11-16 10:52:56,481  - DEBUG - buildDeployLocal20171116T003608.log
+2017-11-16 10:52:56,481  - DEBUG - buildDeployLocal20171116T013431.log
+2017-11-16 10:52:56,481  - DEBUG - buildDeployLocal20171116T021927.log
+2017-11-16 10:52:56,481  - DEBUG - buildDeployLocal20171116T023305.log
+2017-11-16 10:52:56,481  - DEBUG - buildDeployLocal20171116T023810.log
+2017-11-16 10:52:56,481  - DEBUG - buildDeployLocal20171116T035239.log
+2017-11-16 10:52:56,481  - DEBUG - buildDeployLocal20171116T043757.log
+2017-11-16 10:52:56,481  - DEBUG - buildDeployLocal20171116T052116.log
+2017-11-16 10:52:56,481  - DEBUG - buildDeployLocal20171116T062042.log
+2017-11-16 10:52:56,481  - DEBUG - buildDeployLocal20171116T063832.log
+2017-11-16 10:52:56,481  - DEBUG - buildDeployLocal20171116T074850.log
+2017-11-16 10:52:56,481  - DEBUG - buildDeployLocal20171116T082106.log
+2017-11-16 10:52:56,482  - DEBUG - buildDeployLocal20171116T083648.log
+2017-11-16 10:52:56,482  - DEBUG - buildDeployLocal20171116T084006.log
+2017-11-16 10:52:56,482  - DEBUG - buildDeployLocal20171116T085411.log
+2017-11-16 10:53:07,404  - DEBUG - src size = 2765170k 
+2017-11-16 10:53:07,404  - DEBUG - needed size = 2765171k
+2017-11-16 10:53:07,404  - DEBUG - set([u'/tmp/buildDeployLocal20171116T043757.log', u'/tmp/buildDeployLocal20171116T035239.log', u'/tmp/buildDeployLocal20171116T074850.log', u'/tmp/buildDeployLocal20171115T225832.log', u'/tmp/buildDeployLocal20171116T023305.log', u'/tmp/buildDeployLocal20171116T084006.log', u'/tmp/buildDeployLocal20171116T062042.log', u'/tmp/buildDeployLocal20171115T203446.log', u'/tmp/buildDeployLocal20171116T013431.log', u'/tmp/buildDeployLocal20171116T082106.log', u'/tmp/buildDeployLocal20171116T003608.log', u'/tmp/buildDeployLocal20171116T052116.log', u'/tmp/buildDeployLocal20171115T223546.log', u'/tmp/buildDeployLocal20171115T205228.log', u'/tmp/buildDeployLocal20171115T143233.log', u'/tmp/buildDeployLocal20171115T183402.log', u'/tmp/buildDeployLocal20171115T160242.log', u'/tmp/buildDeployLocal20171116T023810.log', u'/tmp/buildDeployLocal20171116T085411.log', u'/tmp/buildDeployLocal20171115T163315.log', u'/tmp/buildDeployLocal20171116T083648.log', u'/tmp/buildDeployLocal20171115T220929.log', u'/tmp/buildDeployLocal20171115T123146.log', u'/tmp/buildDeployLocal20171116T021927.log', u'/tmp/buildDeployLocal20171116T063832.log'])
+2017-11-16 10:53:07,405  - DEBUG - Actions :: delete
+2017-11-16 10:53:07,405  - DEBUG - About to removing /tmp/buildDeployLocal20171116T043757.log
+2017-11-16 10:53:07,421  - DEBUG - About to removing /tmp/buildDeployLocal20171116T035239.log
+2017-11-16 10:53:07,426  - DEBUG - About to removing /tmp/buildDeployLocal20171116T074850.log
+2017-11-16 10:53:07,430  - DEBUG - About to removing /tmp/buildDeployLocal20171115T225832.log
+2017-11-16 10:53:07,435  - DEBUG - About to removing /tmp/buildDeployLocal20171116T023305.log
+2017-11-16 10:53:07,437  - DEBUG - About to removing /tmp/buildDeployLocal20171116T084006.log
+2017-11-16 10:53:07,442  - DEBUG - About to removing /tmp/buildDeployLocal20171116T062042.log
+2017-11-16 10:53:07,450  - DEBUG - About to removing /tmp/buildDeployLocal20171115T203446.log
+2017-11-16 10:53:07,458  - DEBUG - About to removing /tmp/buildDeployLocal20171116T013431.log
+2017-11-16 10:53:07,463  - DEBUG - About to removing /tmp/buildDeployLocal20171116T082106.log
+2017-11-16 10:53:07,468  - DEBUG - About to removing /tmp/buildDeployLocal20171116T003608.log
+2017-11-16 10:53:07,474  - DEBUG - About to removing /tmp/buildDeployLocal20171116T052116.log
+2017-11-16 10:53:07,481  - DEBUG - About to removing /tmp/buildDeployLocal20171115T223546.log
+2017-11-16 10:53:07,485  - DEBUG - About to removing /tmp/buildDeployLocal20171115T205228.log
+2017-11-16 10:53:07,489  - DEBUG - About to removing /tmp/buildDeployLocal20171115T143233.log
+2017-11-16 10:53:07,494  - DEBUG - About to removing /tmp/buildDeployLocal20171115T183402.log
+2017-11-16 10:53:07,499  - DEBUG - About to removing /tmp/buildDeployLocal20171115T160242.log
+2017-11-16 10:53:07,505  - DEBUG - About to removing /tmp/buildDeployLocal20171116T023810.log
+2017-11-16 10:53:07,529  - DEBUG - About to removing /tmp/buildDeployLocal20171116T085411.log
+2017-11-16 10:53:07,530  - DEBUG - About to removing /tmp/buildDeployLocal20171115T163315.log
+2017-11-16 10:53:07,538  - DEBUG - About to removing /tmp/buildDeployLocal20171116T083648.log
+2017-11-16 10:53:07,541  - DEBUG - About to removing /tmp/buildDeployLocal20171115T220929.log
+2017-11-16 10:53:07,554  - DEBUG - About to removing /tmp/buildDeployLocal20171115T123146.log
+2017-11-16 10:53:07,559  - DEBUG - About to removing /tmp/buildDeployLocal20171116T021927.log
+2017-11-16 10:53:07,561  - DEBUG - About to removing /tmp/buildDeployLocal20171116T063832.log
+2017-11-16 10:53:07,561  - DEBUG - done. 
+2017-11-16 10:53:07,561  - DEBUG - *****location*****
+2017-11-16 10:53:08,593  - DEBUG - src size = 2738673k 
+2017-11-16 10:53:08,594  - DEBUG - needed size = 2738674k
+2017-11-16 10:53:08,594  - DEBUG - set([])
